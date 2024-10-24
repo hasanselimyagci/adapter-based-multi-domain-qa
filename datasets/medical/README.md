@@ -1,13 +1,13 @@
 # medical datasets
+- Main:
+  [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA)
+- Support:
+  [MedChatQA](https://huggingface.co/datasets/ngram/medchat-qa)
 
-[PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA)
+  [K-QA](https://huggingface.co/datasets/Itaykhealth/K-QA)
 
-[MedChatQA](https://huggingface.co/datasets/ngram/medchat-qa)
+  [MedQuAD](https://huggingface.co/datasets/lavita/MedQuAD)
 
-[K-QA](https://huggingface.co/datasets/Itaykhealth/K-QA)
+  [TextBookQA](https://huggingface.co/datasets/winder-hybrids/MedicalTextbook_QA)
 
-[MedQuAD](https://huggingface.co/datasets/lavita/MedQuAD)
-
-[TextBookQA](https://huggingface.co/datasets/winder-hybrids/MedicalTextbook_QA)
-
-[ChatDoctor](https://huggingface.co/datasets/avaliev/chat_doctor)
+  [ChatDoctor](https://huggingface.co/datasets/avaliev/chat_doctor)
